@@ -1,7 +1,36 @@
-### Hi there, I'm Nacho Pascual👋
+# Hi there, I'm Nacho Pascual👋
 - Looking for my first job as data engineering. 
 
 - Currently studying a Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+
+```python
+class WhoAmI:
+    """Class to introduce Nacho :)"""
+    def __init__(self, visitor_name):
+        self.user = "nacho-pascual"
+        self.last_education = "Master’s degree in big data analytics"
+        print("Learing: {}".format(self.get_current_learning_tech_tools()))
+        print("Hobbies: {}" .format(self.get_hobbies()))
+
+   def get_current_learning_tech_tools(self):
+        return({
+            "Lenaguajes": "Python,Sql,Java,Scala",
+            "Tools": "Nifi,Kafka,Spark"
+            "Databases": "MySQL,MongoDB, PostrgresSql, Elasticsearch,Cassandra",
+            "DevOps Tools": ", Git, Linux Background, Docker, Kubernetes",
+            "Cloud Computing": "Google Cloud , Azzure, AWS ",
+            "Visualization": "Tableu, Grafana",
+            "Data Science": "Matplotlib, Numpy, Pandas, Seaborn, Pyplot",
+       
+        })
+
+    def get_hobbies(self):
+        return(["Padel", "Gym", "Learn tech things", "Travel",])
+
+Nacho = WhoAmI("your_name")
+```
+### Contact me: [![Linkedin Badge](https://img.shields.io/badge/-nachopascual-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nacho-pascual/)](https://www.linkedin.com/in/nacho-pascual/)
+
 ## In progress learning Skill Set  🧑‍💻 
 <table><tr><td valign="top" width="33%">
 
