@@ -1,6 +1,8 @@
 ### Hi there, I'm Nacho Pascual👋
+- Looking for my first job as data engineering. 
 
-## In progress learning Skill Set  
+- Currently studying a Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+## In progress learning Skill Set  🧑‍💻 
 <table><tr><td valign="top" width="33%">
 
 ### Lenaguages  
@@ -22,7 +24,9 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/400px-Postgresql_elephant.svg.png" alt="PostgresSQL" height="60" /></a>  
   <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+ 
+ 
   
  </td><td valign="top" width="33%">
    
@@ -37,5 +41,16 @@
 </div>
 
 </td></tr>
-</table>  
-<br/>  
+</table>
+
+## My main Repositories 📁
+
+- [EDEM2022](https://github.com/nacho-pascual/EDEM2022): All my progress during the Master in Big Data at [EDEM](https://edem.eu/en/get-to-know-edem/)
+
+## Github Stats <img align="center" src="https://img.icons8.com/plasticine/344/github.png" width = 55px>  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=nacho-pascual&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+</div> 
+<br/>
+
+[^1]: Profile picture generated with [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
