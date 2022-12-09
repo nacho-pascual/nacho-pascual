@@ -27,8 +27,11 @@
  </td><td valign="top" width="33%">
    
   ### Tools  
-  <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-   <img style="margin: 10px" src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" alt="SQL" height="60" /></a>  
+  <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="60" /></a>
+  <img style="margin: 10px" src="https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook" alt="Tableau" height="60" /></a> 
+  <img style="margin: 10px" src="https://miro.medium.com/max/400/1*b-i9e82pUCgJbsg3lpdFnA.jpeg" alt="Nifi" height="60" /></a>
+  <img style="margin: 10px" src="https://i0.wp.com/foxutech.com/wp-content/uploads/2018/02/What-is-Kafka.png?fit=1200%2C1200&ssl=1" alt="Kafka" height="90" /></a>
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" alt="Spark" height="60" /></a>
  
 </div>
 </div>
