@@ -14,10 +14,10 @@ class WhoAmI:
 
    def get_current_learning_tech_tools(self):
         return({
-            "Lenaguajes": "Python,Sql,Java,Scala",
+            "Languages": "Python,Sql,Java,Scala",
             "Tools": "Nifi,Kafka,Spark"
-            "Databases": "MySQL,MongoDB, PostrgresSql, Elasticsearch,Cassandra",
-            "DevOps Tools": ", Git, Linux Background, Docker, Kubernetes",
+            "Databases": "MySQL,MongoDB, PostgresSql, Elasticsearch,Cassandra",
+            "DevOps Tools": "Git, Linux Background, Docker, Kubernetes",
             "Cloud Computing": "Google Cloud , Azzure, AWS ",
             "Visualization": "Tableu, Grafana",
             "Data Science": "Matplotlib, Numpy, Pandas, Seaborn, Pyplot",
