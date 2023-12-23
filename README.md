@@ -1,31 +1,30 @@
 # Hi there, I'm Nacho Pascual👋
-- Looking for my first job as data engineering. 
-
-- Currently studying a Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+- 👨‍💻 Working as a junior  Ml/data engineering. 
+- 🎓 Master's graduate in Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+-  📊 Passionate about unraveling insights from data and contributing to data-driven decisions.
+- 🔍 Seeking opportunities to apply my data science skills in a dynamic environment.
 
 ```python
 class WhoAmI:
-    """Class to introduce Nacho :)"""
     def __init__(self, visitor_name):
-        self.user = "nacho-pascual"
-        self.last_education = "Master’s degree in big data analytics"
-        print("Learing: {}".format(self.get_current_learning_tech_tools()))
-        print("Hobbies: {}" .format(self.get_hobbies()))
+        """ Introduce visitor to [Tu Nombre]. """
+        self.user = "[Tu Nombre]"
+        self.latest_education = "Master’s degree in data science"
+        self.interests = "Data Science, Machine Learning, AI"
 
-   def get_current_learning_tech_tools(self):
-        return({
-            "Languages": "Python,Sql,Java,Scala",
-            "Tools": "Nifi,Kafka,Spark"
-            "Databases": "MySQL,MongoDB, PostgresSql, Elasticsearch,Cassandra",
-            "DevOps Tools": "Git, Linux Background, Docker, Kubernetes",
-            "Cloud Computing": "Google Cloud , Azzure, AWS ",
-            "Visualization": "Tableu, Grafana",
-            "Data Science": "Matplotlib, Numpy, Pandas, Seaborn, Pyplot",
-       
-        })
+    def get_skills(self):
+        return {
+            "Programming": ["Python", "SQl"],
+            "Machine Learning": ["Scikit-Learn", "TensorFlow", "Keras"],
+            "Data Analysis": ["Pandas", "NumPy"],
+            "Data Visualization": ["Matplotlib", "Seaborn"],
+            "Big Data": ["Hadoop", "Spark"],
+            "DevOps": ["Docker", "Git"],
+            "Databases": ["Postgres", "MongoDB"],
+        }
 
     def get_hobbies(self):
-        return(["Padel", "Gym", "Learn tech things", "Travel",])
+        return ["Padel", "Gym", "Gen IA", "entrepreneurship",Travel"]
 
 Nacho = WhoAmI("your_name")
 ```
