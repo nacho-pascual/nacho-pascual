@@ -1,6 +1,11 @@
-# Hi there, I'm Nacho Pascual👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Nacho+Pascual....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 - 👨‍💻 Working as a junior  Ml/data engineering. 
-- 🎓 Master's graduate in Master in Data at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia (Spain)
+- 🎓 Master's graduate in Big Data and Data Science at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia. (Spain)
 -  📊 Passionate about unraveling insights from data and contributing to data-driven decisions.
 - 🔍 Seeking opportunities to apply my data science skills in a dynamic environment.
 
@@ -71,11 +76,9 @@ Nacho = WhoAmI("your_name")
 ## My main Repositories 📁
 
 - [EDEM2023](https://github.com/nacho-pascual/EDEM2022): All my progress during the Master in Big Data at [EDEM](https://edem.eu/en/get-to-know-edem/)
+- [Heart-Disease-Detection-Project](https://github.com/nacho-pascual/Heart-Disease-Detection-Project): Machine Learning Project during the master.
+- [Radiographic-Prediction-Project](https://github.com/nacho-pascual/Radiographic-Prediction-Project): Deep Learning Project during the master.
 
-## Github Stats <img align="center" src="https://img.icons8.com/plasticine/344/github.png" width = 55px>  
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nacho-pascual&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-</div> 
-<br/>
+
 
 [^1]: Profile picture generated with [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
