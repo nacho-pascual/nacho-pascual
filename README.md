@@ -15,7 +15,7 @@ class WhoAmI:
         """ Introduce visitor to [Tu Nombre]. """
         self.user = "[Tu Nombre]"
         self.latest_education = "Master’s degree in data science"
-        self.interests = "Data Science, Machine Learning, AI"
+        self.interests = "Data engineerring, Data Science, Machine Learning, AI"
 
     def get_skills(self):
         return {
@@ -76,6 +76,7 @@ Nacho = WhoAmI("your_name")
 ## My main Repositories 📁
 
 - [EDEM2023](https://github.com/nacho-pascual/EDEM2022): All my progress during the Master in Big Data at [EDEM](https://edem.eu/en/get-to-know-edem/)
+- [Data Engineering Path](https://github.com/nacho-pascual/Data_Engineer_Path):Data engineering path in GFT.
 - [Heart-Disease-Detection-Project](https://github.com/nacho-pascual/Heart-Disease-Detection-Project): Machine Learning Project during the master.
 - [Radiographic-Prediction-Project](https://github.com/nacho-pascual/Radiographic-Prediction-Project): Deep Learning Project during the master.
 
