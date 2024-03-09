@@ -9,15 +9,19 @@
 -  📊 Passionate about unraveling insights from data and contributing to data-driven decisions.
 - 🔍 Seeking opportunities to apply my data science skills in a dynamic environment.
 
-```python
+```py
 class WhoAmI:
-    def __init__(self, visitor_name):
+    latest_education = "Master’s degree in data science"
+    interests = "Data engineering, Data Science, Machine Learning, AI"
+    initial_name = None
+    
+    def __init__(self, name = initial_name):
         """ Introduce visitor to [Tu Nombre]. """
-        self.user = "[Tu Nombre]"
-        self.latest_education = "Master’s degree in data science"
-        self.interests = "Data engineering, Data Science, Machine Learning, AI"
+        self.name = name
+        self.latest_education = self.latest_education
+        self.interests = self.interests
 
-    def get_skills(self):
+    def _get_skills(self):
         return {
             "Programming": ["Python", "SQl"],
             "Machine Learning": ["Scikit-Learn", "TensorFlow", "Keras"],
@@ -28,10 +32,24 @@ class WhoAmI:
             "Databases": ["Postgres", "MongoDB"],
         }
 
-    def get_hobbies(self):
-        return ["Padel", "Gym", "Gen IA", "entrepreneurship",Travel"]
+    def latest_skills_hobbies(self):
+        skills = self._get_skills()
+        hobbies = ["Padel", "Gym", "Gen IA", "Entrepreneurship","Travel"]
+        return {"Skills": skills,
+                "Hobbies": hobbies}
 
-Nacho = WhoAmI("your_name")
+if __name__ == "__main__":
+    MyCV = WhoAmI("Nacho Pascual")
+    skills_hobbies = MyCV.latest_skills_hobbies()
+    print("##################")
+    print("My CV")
+    print("##################\n")
+    print(f"Name: {MyCV.name}")
+    print(f"Interests: {MyCV.interests}")
+    print(f"Latest Education: {MyCV.latest_education}")
+    print("##################")
+    print(f"Skills: {skills_hobbies['Skills']}\n")
+    print(f"Hobbies: {skills_hobbies['Hobbies']}")
 ```
 ### Contact me: [![Linkedin Badge](https://img.shields.io/badge/-nachopascual-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nacho-pascual/)](https://www.linkedin.com/in/nacho-pascual/)
 
